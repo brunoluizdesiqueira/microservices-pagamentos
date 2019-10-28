@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="buytrip" />
         <module name="buyfeedback" />
+        <module name="gateway" />
         <module name="byprocess" />
         <module name="bank" />
       </profile>
@@ -17,6 +18,7 @@
       <module name="buyfeedback" target="11" />
       <module name="buytrip" target="11" />
       <module name="byprocess" target="11" />
+      <module name="gateway" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -25,6 +27,7 @@
       <module name="buyfeedback" options="-parameters" />
       <module name="buytrip" options="-parameters" />
       <module name="byprocess" options="-parameters" />
+      <module name="gateway" options="-parameters" />
     </option>
   </component>
 </project>

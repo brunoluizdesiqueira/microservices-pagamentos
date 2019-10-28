@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/buyfeedback/buyfeedback.iml" filepath="$PROJECT_DIR$/buyfeedback/buyfeedback.iml" />
       <module fileurl="file://$PROJECT_DIR$/buytrip/buytrip.iml" filepath="$PROJECT_DIR$/buytrip/buytrip.iml" />
       <module fileurl="file://$PROJECT_DIR$/byprocess/byprocess.iml" filepath="$PROJECT_DIR$/byprocess/byprocess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/pagamentos.iml" filepath="$PROJECT_DIR$/pagamentos.iml" />
     </modules>
   </component>
