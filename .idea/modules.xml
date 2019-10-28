@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bank/bank.iml" filepath="$PROJECT_DIR$/bank/bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buyfeedback/buyfeedback.iml" filepath="$PROJECT_DIR$/buyfeedback/buyfeedback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buytrip/buytrip.iml" filepath="$PROJECT_DIR$/buytrip/buytrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/byprocess/byprocess.iml" filepath="$PROJECT_DIR$/byprocess/byprocess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagamentos.iml" filepath="$PROJECT_DIR$/pagamentos.iml" />
+    </modules>
+  </component>
+</project>
