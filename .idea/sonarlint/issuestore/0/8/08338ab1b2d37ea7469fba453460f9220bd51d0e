@@ -1,0 +1,4 @@
+
+jsquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(Âå¤Çùÿÿÿÿ8Ýæ„éà-
+|squid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ®«ýûÿÿÿÿ8Ýæ„éà-
+msquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Çƒ—äùÿÿÿÿ8‡Ñ’éà-

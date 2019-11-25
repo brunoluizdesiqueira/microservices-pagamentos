@@ -1,0 +1,11 @@
+
+Á%squid:RedundantThrowsDeclarationCheck&"ˆRemove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonParseException' which is a subclass of 'java.io.IOException'.(„±óº8÷Ýîëà-
+Ç%squid:RedundantThrowsDeclarationCheck&"ŽRemove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'java.io.IOException'.(„±óº8Úäïëà-
+Ì%squid:RedundantThrowsDeclarationCheck<"ŽRemove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'java.io.IOException'.(ÜÙ÷‚úÿÿÿÿ8Úäïëà-
+Æ%squid:RedundantThrowsDeclarationCheck<"ˆRemove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonParseException' which is a subclass of 'java.io.IOException'.(ÜÙ÷‚úÿÿÿÿ8üåíëà-
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(§´å®þÿÿÿÿ8×þßëà-
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ÀûÝÑ8×þßëà-
+Wsquid:S4719("9Replace charset name argument with StandardCharsets.UTF_8(¢î¿ì8‹Ôôëà-
+©%squid:RedundantThrowsDeclarationCheck<"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÜÙ÷‚úÿÿÿÿ8‹Ôôëà-

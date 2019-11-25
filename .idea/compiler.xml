@@ -9,15 +9,15 @@
         <module name="buytrip" />
         <module name="buyfeedback" />
         <module name="gateway" />
-        <module name="byprocess" />
+        <module name="buyprocess" />
         <module name="bank" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bank" target="1.8" />
       <module name="buyfeedback" target="11" />
+      <module name="buyprocess" target="11" />
       <module name="buytrip" target="11" />
-      <module name="byprocess" target="11" />
       <module name="gateway" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -25,8 +25,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="bank" options="-parameters" />
       <module name="buyfeedback" options="-parameters" />
+      <module name="buyprocess" options="-parameters" />
       <module name="buytrip" options="-parameters" />
-      <module name="byprocess" options="-parameters" />
       <module name="gateway" options="-parameters" />
     </option>
   </component>

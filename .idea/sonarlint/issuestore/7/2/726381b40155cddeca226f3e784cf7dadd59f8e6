@@ -1,0 +1,8 @@
+
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Μιά΅ϋÿÿÿÿ8„πέ£α-
+Wsquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ΆξΏμ8„πέ£α-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ΐϋέΡ8„πέ£α-
+Α%squid:RedundantThrowsDeclarationCheck"Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonParseException' which is a subclass of 'java.io.IOException'.(„±σΊ8έ£α-
+Η%squid:RedundantThrowsDeclarationCheck"Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'java.io.IOException'.(„±σΊ8έ£α-

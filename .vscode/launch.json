@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BankApplication",
+            "request": "launch",
+            "mainClass": "com.br.pagamentos.bank.BankApplication",
+            "projectName": "bank"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BuyfeedbackApplication<buyfeedback>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.br.pagamentos.buyfeedback.BuyfeedbackApplication",
+            "projectName": "buyfeedback",
+            "args": ""
+        }
+    ]
+}
